@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "blended-note-book",
+    "build": "vite build blended-note-book",
     "preview": "vite preview"
   },
   "devDependencies": {
